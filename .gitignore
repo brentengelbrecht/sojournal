@@ -1,0 +1,15 @@
+# Folders
+
+# WebStorm
+*.iml
+
+# Directory-based project format:
+.idea/
+.idea/workspace.xml
+**/.idea/workspace.xml
+
+# Mac hidden files
+.DS_Store
+
+# Other
+
